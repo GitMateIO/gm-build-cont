@@ -1,0 +1,9 @@
+pytest==2.8.5
+pytest-cov==2.2.0
+GitPython==1.0.1
+Flask==0.10.1
+Flask-SQLAlchemy==2.1
+Flask-Script==2.0.5
+Flask-Migrate==1.6.0
+coala==0.3.0
+PyJWT==1.4.0
